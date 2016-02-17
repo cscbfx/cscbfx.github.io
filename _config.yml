@@ -10,7 +10,7 @@ project_name: MRC CSC Bioinformatics Lunchtime Mingle
 title: MRC CSC Bioinformatics Lunchtime Mingle
 author_name: cscbfx
 author_url: http://github.com/cscbfx
-email: 
+repository_url: http://github.com/cscbfx/cscbfx.github.io
 description: > # this means to ignore newlines until "baseurl:"
   The Bioinformatics Lunchtime Mingle is a monthly event for sharing knowledge of all things related to bioinformatics and computational biology.
 baseurl: "" # the subpath of your site, e.g. /blog
