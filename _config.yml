@@ -6,13 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
+project_name: MRC CSC Bioinformatics Lunchtime Mingle
 title: MRC CSC Bioinformatics Lunchtime Mingle
+author_name: cscbfx
+author_url: http://github.com/cscbfx
 email: 
 description: > # this means to ignore newlines until "baseurl:"
   The Bioinformatics Lunchtime Mingle is a monthly event for sharing knowledge of all things related to bioinformatics and computational biology.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: 
 github_username: cscbfx
 
 # Build settings

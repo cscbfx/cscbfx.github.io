@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
+
+# About
 
 The Bioinformatics Lunchtime Mingle is a monthly event for sharing knowledge of 
 all things related to bioinformatics and computational biology.  Anyone who uses 
@@ -18,6 +20,6 @@ We have a wiki for more information and resources, which can be found
 This is accessible to anyone with an Imperial College username and password.
 
 ## Organisers
-The events are organised by Toni Beltran ({% include icon-github.html username="belmaran" %}), 
-Bertie Gyenes ({% include icon-github.html username="bertiegyenes" %}), and Liz Ing-Simmons 
-({% include icon-github.html username="liz-is" %}).
+The events are organised by Toni Beltran ([@belmaran](https://github.com/belmaran/)), 
+Bertie Gyenes ([@bertiegyenes](https://github.com/bertiegyenes/)), and Liz Ing-Simmons 
+([@liz-is](https://github.com/liz-is/)).

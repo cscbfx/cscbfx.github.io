@@ -1,0 +1,5 @@
+items:
+  "home": "/"
+  "about": "/about/"
+  "schedule": "/schedule/"
+  "past events": "/past-events/"
