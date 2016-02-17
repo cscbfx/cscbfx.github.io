@@ -21,6 +21,7 @@ We have a wiki for more information and resources, which can be found
 This is accessible to anyone with an Imperial College username and password.
 
 ## Organisers
+
 The events are organised by Toni Beltran ([@belmaran](https://github.com/belmaran/)), 
 Bertie Gyenes ([@bertiegyenes](https://github.com/bertiegyenes/)), and Liz Ing-Simmons 
 ([@liz-is](https://github.com/liz-is/)).
