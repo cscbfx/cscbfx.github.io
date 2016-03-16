@@ -5,7 +5,6 @@ title: Schedule
 
 # Schedule
 
-* 15th March -- Toni Beltran
 * 19th April -- Bertie Gyenes
 * 17th May -- TBC
 * 21st June -- TBC
